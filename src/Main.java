@@ -2,7 +2,7 @@ public class Main {
     public static void main(String[] args) throws Exception {
         System.out.println("Bienvenidos a reseñas Patitos");
         System.out.println("^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^");
-        System.out.println("Donde las mujeres ya no lloran, facturan");
+        //System.out.println("Donde las mujeres ya no lloran, facturan");
         System.out.println("");
         System.out.println("Aqui vamos a identificar si tu reseña es positiva o negativa, encontrando las palabras clave.");
 
